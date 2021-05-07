@@ -1,4 +1,3 @@
-# Personal Website
 
 ## homework_web
 
